@@ -1,3 +1,8 @@
 .title {
   color: #02ccba;
 }
+
+.container {
+  background-image: url(top.jpg);
+  background-size: cover;  
+}

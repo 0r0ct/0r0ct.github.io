@@ -4,10 +4,9 @@
 }
 
 .container {
-  background-color: blue;
+  background-color: #afeeee;
   background-size: cover;  
-  height: 1000px;
-  width: 1000px
+  height: 500px;
 }
 
 .container p {

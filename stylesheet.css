@@ -4,9 +4,10 @@
 }
 
 .container {
-  background-color: #afeeee;
-  background-size: cover;  
-  height: 500px;
+  background-color: #afeeee; 
+  height: 300px;
+  padding: 30px;
+  text-align: center;
 }
 
 .container p {

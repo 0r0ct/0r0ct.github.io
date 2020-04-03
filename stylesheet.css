@@ -5,4 +5,5 @@
 .container {
   background-image: url(https://github.com/0r0ct/0r0ct.github.io/blob/master/top.png);
   background-size: cover;  
+  height: 500px;
 }

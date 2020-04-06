@@ -13,3 +13,18 @@
 .container p {
   color: white;
 }
+
+.btn{
+  background-color: #87ceeb;
+  color: white;
+  display: inline-block;
+  padding: 10px 20px;
+  margin: 30px
+  opacity: 0.7;
+}
+
+.btn:hover{
+  opacity: 1;
+  pointer: cursor;
+}
+  

@@ -17,6 +17,9 @@
 a .btn {
   opacity: 0.8;
   text-decoration: none;
+}
+
+.btn {
   background-color: #87ceeb;
   color: white;
   display: inline-block;
